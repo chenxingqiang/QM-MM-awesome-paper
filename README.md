@@ -8,7 +8,7 @@ HM Senn, W Thiel - Angewandte Chemie International Edition, 2009 - Wiley Online 
 Two are better than one: Quantum mechanics/molecular mechanics (QM/MM) methods are 
 the state‐of‐the‐art computational technique for treating reactive and other “electronic” 
 processes in biomolecular systems. This Review presents the general methodological …
-  被引用次数：1671 相关文章 所有 15 个版本
+被引用次数：1671 相关文章 所有 15 个版本
 
 [HTML] QM/MM: what have we learned, where are we, and where do we go from here?
 H Lin, DG Truhlar - Theoretical Chemistry Accounts, 2007 - Springer
@@ -71,5 +71,3 @@ A major complication in hybrid QM/MM methods is the treatment of the frontier be
 quantum part, describing the reactive region, and the classical part, describing the 
 environment. Two approaches to this problem, the “link atom” method and the “local self …
   被引用次数：413 相关文章 所有 3 个版本
-
-

@@ -1,0 +1,87 @@
+QM/MM methods for biomolecular systems
+[HTML] QM/MM: what have we learned, where are we, and where do we go from here?
+QM/MM studies of enzymes
+QM/MM methods for biological systems
+A priori evaluation of aqueous polarization effects through Monte Carlo QM-MM simulations
+Geometry optimization with QM/MM, ONIOM, and other combined methods. I. Microiterations and constraints
+P450 enzymes: Their structure, reactivity, and selectivity modeled by QM/MM calculations
+QUASI: A general purpose implementation of the QM/MM approach and its application to problems in catalysis
+A generalized hybrid orbital (GHO) method for the treatment of boundary atoms in combined QM/MM calculations
+Frontier bonds in QM/MM methods: A comparison of different approaches
+QM/MM methods for biomolecular systems
+P450 enzymes: Their structure, reactivity, and selectivity modeled by QM/MM calculations
+Combined quantum mechanics/molecular mechanics (QM/MM) methods in computational enzymology
+The implementation of a fast and accurate QM/MM potential method in Amber
+Progress in Ab Initio QM/MM Free-Energy Simulations of Electrostatic Energies in Proteins: Accelerated QM/MM Studies of pKa, Redox Reactions and Solvation …
+C hem S hell—a modular software package for QM/MM simulations
+On the convergence of QM/MM energies
+Advances in quantum and molecular mechanical (QM/MM) simulations for organic and enzymatic reactions
+Electronic energy transfer in condensed phase studied by a polarizable QM/MM model
+Toward a practical method for adaptive QM/MM simulations
+Free energies for biological electron transfer from QM/MM calculation: method, application and critical assessment
+Excitation energies in solution: the fully polarizable QM/MM/PCM method
+QM/MM approaches in medicinal chemistry research
+QM/MM nonadiabatic decay dynamics of 9H‐adenine in aqueous solution
+Theoretical studies of RNA catalysis: hybrid QM/MM methods and their comparison with MD and QM
+Electronic Absorption Spectra from MM and ab Initio QM/MM Molecular Dynamics: Environmental Effects on the Absorption Spectrum of Photoactive Yellow Protein
+Electronic properties of disordered organic semiconductors via QM/MM simulations
+Convergence of electronic structure with the size of the QM region: example of QM/MM NMR shieldings
+Introduction to QM/MM simulations
+Investigations of enzyme-catalysed reactions with combined quantum mechanics/molecular mechanics (QM/MM) methods
+Toward accurate barriers for enzymatic reactions: QM/MM case study on -hydroxybenzoate hydroxylase
+Scrutinizing the effects of polarization in QM/MM excited state calculations
+QM/MM simulation of liquid water with an adaptive quantum region
+Protein NMR chemical shift calculations based on the automated fragmentation QM/MM approach
+QM/MM methods in inorganic chemistry
+Aggregation induced blue-shifted emission–the molecular picture from a QM/MM study
+Mechanism of cellulose hydrolysis by inverting GH8 endoglucanases: a QM/MM metadynamics study
+QM/MM modeling of benzene hydroxylation in human cytochrome P450 2C9
+Spectral tuning in visual pigments: an ONIOM (QM: MM) study on bovine rhodopsin and its mutants
+A QM/MM study of proton transport pathways in a [NiFe] hydrogenase
+QM/MM simulations predict a covalent intermediate in the hen egg white lysozyme reaction with its natural substrate
+An extensible interface for QM/MM molecular dynamics simulations with AMBER
+A QM/MM investigation of thymine dimer radical anion splitting catalyzed by DNA photolyase
+Paradynamics: an effective and reliable model for ab initio QM/MM free-energy calculations and related tasks
+Transition States in a Protein Environment− ONIOM QM: MM Modeling of Isopenicillin N Synthesis
+Convergence in the QM‐only and QM/MM modeling of enzymatic reactions: A case study for acetylene hydratase
+Nonadiabatic molecular dynamics with solvent effects: A LR-TDDFT QM/MM study of ruthenium (II) tris (bipyridine) in water
+Bathochromic shift in green fluorescent protein: a puzzle for QM/MM approaches
+Accurate molecular crystal lattice energies from a fragment QM/MM approach with on-the-fly ab initio force field parametrization
+Tracking flavin conformations in protein crystal structures with Raman spectroscopy and QM/MM calculations
+Nonadiabatic QM/MM simulations of fast charge transfer in Escherichia coli DNA photolyase
+A convergence study of QM/MM isomerization energies with the selected size of the QM region for peptidic systems
+Solvatochromic shifts in uracil: a combined MD-QM/MM study
+Claisen rearrangements: Insight into solvent effects and “on water” reactivity from QM/MM simulations
+QM/MM calculation of solvent effects on absorption spectra of guanine
+Evaluating boundary dependent errors in QM/MM simulations
+Proton transfer function of carbonic anhydrase: Insights from QM/MM simulations
+Solvent boundary potentials for hybrid QM/MM computations using classical drude oscillators: a fully polarizable model
+Extension of QM/MM docking and its applications to metalloproteins
+Exploring, refining, and validating the paradynamics QM/MM sampling
+Catalytic reaction mechanism of acetylcholinesterase determined by Born− Oppenheimer ab initio QM/MM molecular dynamics simulations
+Multiscale free energy simulations: An efficient method for connecting classical MD simulations to QM or QM/MM free energies using Non-Boltzmann Bennett …
+Characterization of a complete cycle of acetylcholinesterase catalysis by ab initio QM/MM modeling
+Flexibility of catalytic zinc coordination in thermolysin and HDAC8: A Born− Oppenheimer ab initio QM/MM molecular dynamics study
+Finite-temperature effects in enzymatic reactions—Insights from QM/MM free-energy simulations
+QM/MM X-ray refinement of zinc metalloenzymes
+A QM/MM study on the spinach plastocyanin: redox properties and absorption spectra
+Accurate reaction energies in proteins obtained by combining QM/MM and large QM calculations
+Effect of polarization on the opsin shift in rhodopsins. 1. A combined QM/QM/MM model for bacteriorhodopsin and pharaonis sensory rhodopsin II
+How Large Should the QM Region Be in QM/MM Calculations? The Case of Catechol O-Methyltransferase
+Comparison of QM-only and QM/MM models for the mechanism of tungsten-dependent acetylene hydratase
+Combined QM/MM and Classical Molecular Dynamics Study of [Ru(bpy)3]2+ in Water
+Development and application of ab initio QM/MM methods for mechanistic simulation of reactions in solution and in enzymes
+A QM/MM refinement of an experimental DNA structure with metal-mediated base pairs
+Insights into intrastrand cross-link lesions of DNA from QM/MM molecular dynamics simulations
+Identification of productive inhibitor binding orientation in fatty acid amide hydrolase (FAAH) by QM/MM mechanistic modelling
+… dissociative and concerted mechanism for the nicotinamide cleavage reaction in Sir2Tm enzyme suggested by ab initio QM/MM molecular dynamics simulations
+The S2 State of the Oxygen‐Evolving Complex of Photosystem II Explored by QM/MM Dynamics: Spin Surfaces and Metastable States Suggest a Reaction Path Towards the S …
+Convergence of QM/MM free-energy perturbations based on molecular-mechanics or semiempirical simulations
+How do SET-domain protein lysine methyltransferases achieve the methylation state specificity? Revisited by Ab initio QM/MM molecular dynamics simulations
+QM/MM studies on the β-galactosidase catalytic mechanism: Hydrolysis and transglycosylation reactions
+Effect of geometry optimizations on QM-cluster and QM/MM studies of reaction energies in proteins
+A simple QM/MM approach for capturing polarization effects in protein− ligand binding free energy calculations
+Hydration of sodium (I) and potassium (I) revisited: a comparative QM/MM and QMCF MD simulation study of weakly hydrated ions
+Ring puckering: a metric for evaluating the accuracy of AM1, PM3, PM3CARB-1, and SCC-DFTB carbohydrate QM/MM simulations
+Analysis of polarization in QM/MM modelling of biologically relevant hydrogen bonds
+Theoretical insights into the aggregation-induced emission by hydrogen bonding: a QM/MM study
